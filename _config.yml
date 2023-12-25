@@ -4,7 +4,6 @@ description:        Personal site
 author:             Sakthiprian
 baseurl:            "/Sakthiprian"
 url:                "https://sakthiprian.github.io"
-theme: jekyll-theme-clean-blog
 # Social Profiles
 twitter_username:   
 github_username:    Sakthiprian
@@ -17,6 +16,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
+remote_theme: THEME-NAME
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
