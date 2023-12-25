@@ -2,6 +2,7 @@ title:              Sakthiprian
 email:              sakthiprians@gmail.com
 description:        Personal site
 author:             Sakthiprian
+baseurl:            "personal-site"
 url:                "https://sakthiprian.github.io"
 # Social Profiles
 twitter_username:   
