@@ -4,7 +4,7 @@ description:        Personal site
 author:             Sakthiprian
 baseurl:            "/Sakthiprian"
 url:                "https://sakthiprian.github.io"
-
+theme: jekyll-theme-clean-blog
 # Social Profiles
 twitter_username:   
 github_username:    Sakthiprian
